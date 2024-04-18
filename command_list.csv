@@ -8,7 +8,7 @@
     8  git add .
     9  git commit -m "files were added"
    10  touch main_test.txt
-   11  git add .
+  
    12  git commit -m "main_test.txt was added"
   
    14  touch develop_test.txt
